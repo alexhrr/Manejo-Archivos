@@ -1,6 +1,7 @@
 # Manejo-Archivos
 Creacion y escritura de archivos
-ntegrantes
+
+Itegrantes:
 
 Alex Humberto Rodriguez Rueda 20181020088
 
